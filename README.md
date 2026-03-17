@@ -22,6 +22,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+![3316e68d-a974-4e58-be7b-7f2599b59b67](https://github.com/user-attachments/assets/871dd4a5-e58c-426e-8c20-e033a2f02b23)
+**tabular column**
+![b2ef5d70-ec0b-473d-b14e-e87f904be272](https://github.com/user-attachments/assets/13b44037-6554-482b-bacf-b3c54ce6310e)
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
